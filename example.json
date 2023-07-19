@@ -1,10 +1,71 @@
-{
-    "language": "zh",
-    "articles": [
-        {
-            "title": "贵系日常",
-            "article": "我们都爱{{1}}这门课程。这门课程是多么的{{2}}，以至于所有人都在课程上认真地{{3}}。在设计数字电路时,我们需要运用到逻辑门、半导体存储器等知识。这些内容相互联系,共同构成复杂的数字电路。这门课能启发我们的逻辑思维能力和科学思考能力。通过为难我们的练习和作业,我们的理解能力和解决问题的能力得到了提高。这些将对今后的{{4}}和工作有很大益处。",
-            "hints": ["教材名称", "形容词", "动词，与学生相关", "你最喜欢做的事情"]
-        }
-    ]
-}
+[
+    {
+        "language": "zh",
+        "articles": [
+            {
+                "id": 0,
+                "title": "贵系日常",
+                "article": "我们都爱{{1}}这门课程。这门课程是多么的{{2}}，以至于所有人都在课程上认真地{{3}}。在设计数字电路时，我们需要运用到逻辑门、半导体存储器等知识。这些内容相互联系，共同构成复杂的数字电路。这门课能启发我们的逻辑思维能力和科学思考能力。通过为难我们的练习和作业，我们的理解能力和解决问题的能力得到了提高。这些将对今后的{{4}}和工作有很大益处。",
+                "hints": [
+                    "教材名称",
+                    "形容词",
+                    "动词，与学生相关",
+                    "你最喜欢做的事情"
+                ]
+            },
+            {
+                "id": 1,
+                "title": "森林探险",
+                "article": "在迷人的{{1}}森林中，空气中弥漫着野花的香气。景色实在是{{2}}，仿佛我们踏入了一个魔幻的仙境。冒险家们忍不住{{3}}着这美景，用相机捕捉这壮丽的瞬间，以永远珍藏这美好的记忆。",
+                "hints": [
+                    "森林名称",
+                    "描述景色的形容词",
+                    "与摄影相关的动词"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "快乐假期",
+                "article": "今年的{{1}}假期真是令人难以忘怀。我们选择了一个{{2}}的目的地，那里有美丽的风景和丰富的文化。大家在假期中尽情{{3}}，体验当地的特色美食和活动。这个假期让我们充满了愉快和回忆，带给我们许多宝贵的体验和启发。",
+                "hints": ["假日名称", "形容词", "与旅行相关的动词"]
+            },
+            {
+                "id": 3,
+                "title": "团队合作",
+                "article": "我们的{{1}}团队真是太棒了。每个人都充满了{{2}}和激情，致力于共同完成任务。我们相互支持，协作无间，共同克服了许多挑战。大家都积极{{3}}，为团队的成功贡献自己的力量。这个经历让我们更加认识到团队合作的重要性，也增进了我们之间的友谊。",
+                "hints": ["团队名称", "描写精神状态的正面形容词", "与团队合作相关的动词"]
+            }
+        ]
+    },
+    {
+        "language": "en",
+        "articles": [
+            {
+                "id": 0,
+                "title": "Life at University",
+                "article": "We all love {{1}} course. It's so {{2}} that everyone approaches it with great dedication. When designing digital circuits, we need to apply knowledge of logic gates, semiconductor memory, and more. These elements are interconnected to form complex digital circuits. This course inspires our logical thinking and scientific reasoning abilities. The challenging exercises and assignments have improved our understanding and problem-solving skills. These skills will be highly beneficial for our {{3}} and future career.",
+                "hints": [
+                    "Course name",
+                    "Adjective",
+                    "Your favorite activity"
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Forest Adventure",
+                "article": "In the enchanting {{1}} forest, the air was filled with the scent of wildflowers. The scenery was absolutely {{2}}, as if we had stepped into a magical wonderland. The adventurers couldn't help but {{3}} at the sight, capturing the beauty with their cameras to cherish the memory forever.",
+                "hints": [
+                    "Forest name",
+                    "Adjective describing the scenery",
+                    "Verb related to photography"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Exciting Adventure",
+                "article": "Our {{1}} adventure was truly unforgettable. We chose an {{2}} destination with breathtaking landscapes and rich culture. During the trip, we had the opportunity to {{3}} and immerse ourselves in the local cuisine and activities. The adventure filled us with joy, memories, and valuable experiences that will stay with us forever.",
+                "hints": ["Adventure name", "Adjective", "Verb related to exploration"]
+            }
+        ]
+    }
+]
